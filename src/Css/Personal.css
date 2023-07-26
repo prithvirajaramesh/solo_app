@@ -1,0 +1,41 @@
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+.btn_group{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ .Apostion{
+    margin: -2.5%;
+    color: #F3BF99;
+    font-size: 12.8px;
+} 
+.linked_in{
+    background-color:#0A66C2;
+    color: white;
+    border: none;
+}
+.github{
+    background-color:#000;
+    color: white;
+    border: none;
+}
+.personal_Data{
+    text-align: center;
+}
+.heading_new{
+    font-size: 18px;
+    font-weight: bold;
+}
+.heading_Mail{
+    font-size: 10.8px;
+    margin-top: 4.5%;
+    
+}
+a{
+    text-decoration: none;
+    color:white
+}
